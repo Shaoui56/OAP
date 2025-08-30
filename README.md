@@ -46,7 +46,8 @@ You’re free to use, adapt, and share it with attribution.
 ---
 
 ## 📎 Reference
-Full guide PDF: [Download here](./The%20Output%20Alignment%20Protocol%20(OAP).pdf)  
+Full guide PDF: [Download here]([./The%20Output%20Alignment%20Protocol%20(OAP).pdf](https://drive.google.com/file/d/1X5SFo2oEX9Qhv7THf9j8LAm5nE_WqwBl/view?usp=sharing))  
+https://drive.google.com/file/d/1X5SFo2oEX9Qhv7THf9j8LAm5nE_WqwBl/view?usp=sharing
 
 For citation:  
 Weiss, S. (2025). *The Output Alignment Protocol (OAP): A Practical Guide for Safer LLM Outputs*. GitHub. https://github.com/Shaoui56/OAP
